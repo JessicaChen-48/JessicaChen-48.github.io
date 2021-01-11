@@ -1,0 +1,101 @@
+body {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+
+img {
+    border-radius: 50%;
+}
+
+h3 {
+    display: block;
+    font-size: 1.17rem;
+    color: #052f5f;
+    font-weight: 700;
+}
+
+/* LANDING SECTION */
+
+#landing {
+    background-color: #70a9a1;
+    color: #052f5f;
+    padding: 5rem;
+}
+
+h1 {
+    font-size: 7rem;
+    padding-bottom: 1rem;
+    color: gold;
+    font-family: 'Handlee', cursive;
+    line-height: 2;
+    font-weight: 700;
+}
+
+h2 {
+    color: #052f5f;
+}
+
+/* ABOUT ME SECTION */
+
+.intro {
+    width: 45%;
+    margin: auto;
+}
+
+#about-me {
+    padding: 0 15% 4%;
+}
+
+.about-me-header {
+    margin: 6% 0 4%;
+}
+
+.skill-left {
+    text-align: left;
+    padding: 2% 0;
+}
+
+.skill-right {
+    text-align: right;
+    padding: 4% 8%;
+}
+
+.img-float-left {
+    float: left;
+    width: 15%;
+    margin-right: 5%;
+}
+
+.img-float-right {
+    float: right;
+    width: 17%;
+    margin-left: 5%;
+}
+
+.about-text {
+    width: 80%;
+}
+
+
+/* CONTACT SECTION */
+
+#contact-container {
+    background-color: #70a9a1;
+    padding-top: 2%;
+}
+
+.contact-intro {
+    margin-top: 2%;
+
+}
+
+.social-icons {
+    margin: 1% 1%;
+    font-size: 35px;
+    color: gold;
+}
+
+.copyright {
+    margin-bottom: 0;
+}
